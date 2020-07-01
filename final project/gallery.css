@@ -1,0 +1,38 @@
+.column {
+    float: left;
+   
+    padding: 10px;
+  }
+  
+  .column img {
+    opacity: 0.8;
+    width: 140px;
+    height: 140px;
+    cursor: pointer;
+    transition: transform .2s; /* Animation */
+    border: 2px solid white
+  }
+  
+  .column img:hover {
+    opacity: 1;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  #expandimg{
+align-items: center;
+  }
+  body{
+    background-image: url(starsBg-wide.jpg);
+
+  }
+  
+  
+  .column img:hover {
+    transform: scale(1.1); 
+  }
+  

@@ -1,0 +1,148 @@
+header{
+        
+      
+  text-align: center;
+  background-color:black ;
+  background-image: url("starsBg-wide.jpg");
+  font-size: 30px;
+  margin: auto;
+  padding-right: 100%;
+  padding-bottom: 30px;
+    }
+    body{
+      margin: 0px;
+    }
+    
+    img{
+      background: url();
+      margin-RIGHT: 140%;
+
+    }
+    main{
+    
+  text-align: left;
+  padding: 100px;
+  width:80%;
+  
+
+    }
+    #txt{
+    
+      color: antiquewhite;
+      display: flex;
+    font-size: larger;
+}
+  
+
+nav{
+  background-color:hsl(249, 66%, 39%);
+  text-align: left;
+ padding-bottom:10% ;
+  width:20%;
+}
+container2{
+  display: flex;
+  flex-direction:row-reverse;
+
+}
+
+#btn1{
+  background-color: BLACK;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  padding:14px 40px ;
+margin-left: 20%;
+}
+   
+#btn2{
+  background-color:black;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  padding:14px 40px ;
+margin-left: 20%;
+}
+
+#btn3{
+  background-color:black;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  padding:14px 40px ;
+margin-left: 20%;
+}
+
+#btn4{
+  background-color:BLACK;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  padding:14px 40px ;
+margin-left: 20%;
+}
+
+#btn5{
+  background-color:BLACK;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 14px 40px;
+margin-left: 20%;
+}
+#hi
+{
+  font-family: Comic sans ms, comic sans,cursive; font-weight: 900;  font-size: 400%;  text-align:center;
+              ;
+  
+        
+}
+
+.space{
+  display: inline-block;
+}
+.btn button {
+  width: 139px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: hsl(212, 81%, 26%);
+  cursor: pointer;
+color: antiquewhite;
+}
+.btn{
+  margin: 10px 197px;
+  width: 1072px;}
+
+  footer{
+    background-color:black;
+    text-align: center;
+    font-size: larger;
+  }
+   
+
+
